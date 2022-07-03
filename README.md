@@ -20,6 +20,9 @@ _App still pending on the store, i will update this README with a direct install
 3. Click on the extension icon
 4. GG
 
+Optional : You can chose to hide the stream infos banner by navigating through the option page of the extension. Options will be automatically saved for your next visit. 
+
+
 
 ## Known Issues
 
