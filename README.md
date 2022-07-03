@@ -16,7 +16,7 @@ _App still pending on the store, i will update this README with a direct install
 ## How to use
 
 1. Go to a twitch livestream
-2. Reduce the windows width (works at it's best at ~700px)
+2. Reduce the windows width (works at it's best at ~700px). The chat will fit the remaining vertical space of the page.  
 3. Click on the extension icon
 4. GG
 
