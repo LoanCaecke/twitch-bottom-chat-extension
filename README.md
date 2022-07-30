@@ -2,16 +2,15 @@
 
 ## How to install
 
-_App still pending on the store, i will update this README with a direct installation link when it will be approved_
+https://chrome.google.com/webstore/detail/twitch-bottom-chat/ngfifandjbbfahcpmalchaffeoiefoga
 
-
+OR
 
 1. Clone the repo
 2. Go to `chrome://extensions`
 3. Click on `Load unpackaged extension`
 4. Select the folder you just cloned
 5. GG
-
 
 ## How to use
 
@@ -22,13 +21,9 @@ _App still pending on the store, i will update this README with a direct install
 
 Optional : You can chose to hide the stream infos banner by navigating through the option page of the extension. Options will be automatically saved for your next visit. 
 
-
-
 ## Known Issues
 
 1. Sometimes you need to click twice to enable the extension
-2. Icons doesn't work as the package isn't published on Chrome Store yet
-
 
 ### About
 
